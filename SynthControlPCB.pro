@@ -1,4 +1,4 @@
-update=12/26/2018 11:40:33 AM
+update=12/26/2018 1:34:07 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,8 +60,6 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=sw_rotary1x4
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -72,3 +70,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
