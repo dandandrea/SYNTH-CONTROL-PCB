@@ -1,4 +1,4 @@
-update=12/24/2018 7:53:11 PM
+update=12/25/2018 10:42:56 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,7 +25,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=
+LibDir=../KiCad_Libraries/Symbols
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,5 +59,6 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=sw_rotary1x4
 [general]
 version=1
