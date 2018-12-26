@@ -1,4 +1,4 @@
-update=12/25/2018 10:42:56 PM
+update=12/26/2018 11:40:33 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName32=valves
 LibName33=sw_rotary1x4
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
